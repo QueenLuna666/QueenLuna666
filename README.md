@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Luna
 
-<!--
-**QueenLuna666/QueenLuna666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Mathematics student at the **Technion** and a **Schulich Leader**, interested in AI, research, and technology with social impact.
 
-Here are some ideas to get you started:
+**Now:** AI Engineer at the Technion's MtED Research Lab, developing AI tools for math-education research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Before:** Quantum computing research intern in Prof. Steven Frankel's lab (Qiskit, PennyLane).
+
+**Built:** Stickeep, an IoT system for accessible lecture-hall seating (Flutter, ESP32, Firebase).
+
+**Tech:** Python · TypeScript · C · C++ · Dart/Flutter · Firebase · Qiskit · ESP32
+
+**Languages:** Arabic · Hebrew · English
+
+**Find me on** [LinkedIn](https://www.linkedin.com/in/luna-abu-yunis-9aaaa71a6)
